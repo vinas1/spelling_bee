@@ -19,7 +19,7 @@ You can find the pre-built `.exe` files in the `dist/` folder. Simply run:
 - `spelling_bee2.0.exe`
 - `spelling_bee2.1.exe`
 
-> if you create a words.txt file in the same folder, spelling_bee will use it!
+> 🐝 if you create a words.txt file in the same folder, spelling_bee will use it! 🐝
 
 ### Running from Source
 1. Ensure you have Python installed.
