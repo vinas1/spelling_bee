@@ -1,4 +1,4 @@
-# Spelling Bee
+# Spelling Bee 🐝🐝🐝
 
 A Python-based Spelling Bee program.
 
